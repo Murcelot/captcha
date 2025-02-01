@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.2.2
+pillow==10.4.0
+scikit-image==0.25.0
+scipy==1.14.1
+torch==2.5.1
+torchvision==0.20.1
+tqdm==4.66.5
